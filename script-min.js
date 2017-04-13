@@ -1,0 +1,1 @@
+var tempFah=0,celcius=(tempFah-32)/1.8;console.log(" The temprature in Celcius is "+celcius+" degrees."),celcius>=32?console.log("whoa... Too hot:/"):celcius>=15?console.log("yeeeeah!!"):console.log("meh.. :(");
